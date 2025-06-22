@@ -8,7 +8,6 @@ import { getContact } from './tools/getContact';
 import { getSkills } from './tools/getSkills';
 import { getTravels } from './tools/getTravels';
 import { getCrazy } from './tools/getCrazy';
-import 'dotenv/config'; // or use require if using CommonJS
 
 export const maxDuration = 30;
 
